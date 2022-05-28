@@ -11,5 +11,5 @@ after attempting any of the quizz user is updated with congrats message of highe
 
 at the end of every Quizz user is given with an option to play again.
 
-Here is the URL to find the Game:
+Here is the URL to find the App:
 https://replit.com/@sangeetha13/Mark-1-CLI-PROGRAM#index.js?embed=1&output=1
