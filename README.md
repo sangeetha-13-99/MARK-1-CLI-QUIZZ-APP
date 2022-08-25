@@ -1,11 +1,13 @@
 # MARK-1-CLI-QUIZZ-APP 
+<img width="528" alt="image" src="https://user-images.githubusercontent.com/74001727/186770069-3a062426-453c-4c39-9401-b67e2aaedfb2.png">
+
 
 This Quizz App written in javascript and written with the help of Repl, packages used are readline-sync and chalk package, readline-sync package used to take the userinputs in console and chalk is used to make UI look Good.
 
 In this Quizz User is provided with options to select the Type of quizz he want to take, available Options are:
-    a: Do U know Me Quizz
-    b: IndianSweets Quizz
-    c: Marvel Quizz
+     a: Do U know Me Quizz
+     b: IndianSweets Quizz
+     c: Marvel Quizz
 
 after attempting any of the quizz user is updated with congrats message of highest score if she/he scores high , if not message with how many points he is less than the highest score.
 
